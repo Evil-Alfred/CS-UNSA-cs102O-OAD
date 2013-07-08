@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1368661750 source:d:\universidad\cs-unsa-cs102o-oad\celda.cpp
+	"celda.h"
+
+1368666124 d:\universidad\cs-unsa-cs102o-oad\celda.h
+	"Nodo.h"
+	<cstring>
+
+1368661058 source:d:\universidad\cs-unsa-cs102o-oad\main.cpp
+	<iostream>
+	"Nodo.h"
+
+1368661432 source:d:\universidad\cs-unsa-cs102o-oad\constante.cpp
+	"constante.h"
+
+1368666135 d:\universidad\cs-unsa-cs102o-oad\constante.h
+	"Nodo.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+
+1367968623 source:d:\universidad\cs-unsa-cs102o-oad\operacion.cpp
+	"operacion.h"
+
+1368667934 d:\universidad\cs-unsa-cs102o-oad\operacion.h
+	"Nodo.h"
+
+1368667979 d:\universidad\cs-unsa-cs102o-oad\nodo.h
+
+1368487015 source:d:\universidad\cs-unsa-cs102o-oad\nodo.cpp
+	"Nodo.h"
+

@@ -32,7 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Cellnode.cpp" />
+		<Unit filename="Cellnode.h" />
+		<Unit filename="Nodo.cpp" />
+		<Unit filename="Nodo.h" />
+		<Unit filename="celda.cpp" />
+		<Unit filename="celda.h" />
+		<Unit filename="constante.cpp" />
+		<Unit filename="constante.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="operacion.cpp" />
+		<Unit filename="operacion.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

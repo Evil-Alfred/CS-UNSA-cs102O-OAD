@@ -1,25 +1,17 @@
 #ifndef CELDA_H
 #define CELDA_H
-
+#include "Nodo.h"
 
 class celda
 {
     public:
         celda();
         virtual ~celda();
-        void conversion(char* &);
-        bool esLetra(char);
-        void sacarLetra(char*);
-        bool esNumero(char);
-        int sacarNumero(char*);
-
+        cell_value evalue();
     protected:
     private:
-        char* nombre;
-        char *letra;
-        char* simbolo;
-        int numero;
 
 };
+
 
 #endif // CELDA_H
